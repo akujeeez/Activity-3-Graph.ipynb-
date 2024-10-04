@@ -1,5 +1,5 @@
 
-**Name**: Acosta, John Paolo Miguel R.
+**Name**: Acosta, John Paolo Miguel
 
 **Student number**: 2021136758
 
