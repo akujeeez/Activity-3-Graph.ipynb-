@@ -6,11 +6,11 @@
 **GitHub username**: Pao227
 
 
-**Name**: 
+**Name**: Gonzales, Dave Justine
 
-**Student number**: 
+**Student number**: 2022108718
 
-**GitHub username**: 
+**GitHub username**: SIcario05
 
 
 **Name**: 
