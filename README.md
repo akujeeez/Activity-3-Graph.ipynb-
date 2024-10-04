@@ -1,9 +1,9 @@
 
-**Name**: 
+**Name**: Acosta, John Paolo Miguel
 
-**Student number**: 
+**Student number**: 2021136758
 
-**GitHub username**:  
+**GitHub username**: Pao227
 
 
 **Name**: 
