@@ -1,10 +1,14 @@
 GROUP 8 - BM7
 
+<br>
+
 **Name**: Acosta, John Paolo Miguel
 
 **Student number**: 2021136758
 
 **GitHub username**: Pao227
+
+<br>
 
 
 **Name**: Gonzales, Dave Justine
@@ -13,6 +17,7 @@ GROUP 8 - BM7
 
 **GitHub username**: SIcario05
 
+<br>
 
 **Name**: 
 
@@ -20,6 +25,7 @@ GROUP 8 - BM7
 
 **GitHub username**: 
 
+<br>
 
 **Name**: Rupisan, Anthony James
 
